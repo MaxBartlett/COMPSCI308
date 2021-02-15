@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simulation simType = "Wator">
+    <simAuthor> Max Bartlett </simAuthor>
+    <simTitle> LifeTest1 </simTitle>
+
+    <globalParam>
+        <!-- Specific simulation parameters go here -->
+        <!-- Fire: <probCatch> -->
+        <!-- Seg: <percentSatisfaction> -->
+        <!-- WaTor: <sharkSpawnTurns> -->
+        <!-- WaTor: <fishSpawnTurns> -->
+        <sharkSpawnTurns> 4 </sharkSpawnTurns>
+        <fishSpawnTurns> 4 </fishSpawnTurns>
+    </globalParam>
+
+    <grid>
+        <gridSize>
+            <xdim> 25 </xdim>
+            <ydim> 26 <!-- Initial size of a grid column--> </ydim>
+        </gridSize>
+
+        <beginCells>
+            <row1> F W K W F K K W F S S F W W W F S W K K W W K W F <!-- Place representation for row of cells here--> </row1>
+            <row2> F W K W F K K W F S S F K W W F W W K K W S K W F </row2>
+            <row3> K W K W F W K W F W S F W W S F S W K K W W K W F </row3>
+            <row4> F K K W F K K W F S S F W W W F W W K K S W K W F </row4>
+            <row5> F W K W W K W W F S S F W W W F S W K K W W S W F </row5>
+            <row6> W W K W F K K W F S W F S W W F S W K K W W K W F </row6>
+            <row7> F K K W F W K W F S S F W W W F W W K K S W K W F </row7>
+            <row8> F W K W W K K W W W W F W W W F S W K K W W K W F </row8>
+            <row9> F W K W F K W W F S S F W S W F S W K K W W K W F </row9>
+            <row10> W W K W F K K W F S S F W W W F S W K K W W K W F </row10>
+            <row11> F W K W F K K W F S S F W F W F S W K K K W K W F </row11>
+            <row12> F K K W F W K W W S S F W W W F S W K K W W K W F </row12>
+            <row13> F W K W F K K W F S S F W W W F W W K K W S K W F </row13>
+            <row14> F S K W F W K W F S S F W W W F S W K K W W K W F </row14>
+            <row15> K W K W F K K W F S S F W W W F W W K K W W K W F </row15>
+            <row16> F W K W F K K W F S S F W W W F S W K K W W K W F </row16>
+            <row17> F W K W F K K W F S S F W K W F S W K K W W K W F </row17>
+            <row18> F S K W F K K W F S S F W K W F S W K K F W K W F </row18>
+            <row19> F W K W F W W W W S S F K W W F S W K K W W K W F </row19>
+            <row20> F W K W F K K W F S S F W K W F W W K K W W K W F </row20>
+            <row21> F S K W F W K W F S S F W W W F S W K K W W K W F </row21>
+            <row22> F W K W F K W W F S S F W W S F W W K K W W K W F </row22>
+            <row23> K K K K F K K W F S S F W K W F S W K K W W K W F </row23>
+            <row24> F W K W F K K W F S S F W W W F W W K K W W K W F </row24>
+            <row25> F W K W F K K W F S S F W W W F S W K K W W K W F </row25>
+        </beginCells>
+    </grid>
+
+</simulation>
+
+

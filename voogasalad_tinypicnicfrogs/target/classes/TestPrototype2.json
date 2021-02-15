@@ -1,0 +1,53 @@
+{
+  "name":"pikachu",
+  "animations":[{"key":"default","path":"/resource/pikachu1.png"},{"key":"special","path":"/resource/pikachu2.png"}],
+  "stats":[{"key":"health","value":50},{"key":"damage","value":5},
+
+  ],
+  "isPlayer":false,
+  "bounds":{
+    "relX":0,
+    "relY":0,
+    "width":5,
+    "height":5
+  },
+  "Interactions": [{
+    "name":"fight1",
+    "type":"fight",
+    "animations":[{"key":"default","path":"/resource/pikachu3.png"},{"key":"special","path":"/resource/pikachu4.png"}],
+    "Messages":[
+      {"key":"prototypeVictory","messageKey":"onVictory"},
+      {"key":"prototypeDefeat","messageKey":"onDefeat"}
+    ],
+
+    "moves":[
+      {
+        "name":"basic attack",
+        "targetStat": "HP",
+        "targetActorNumber":1,
+        "targetActorType":"enemy",
+        "targetValue":10,
+        "targetType":"constant",
+        "animations":[{"key":"default","path":"/resource/pikachu5.png"},{"key":"special","path":"/resource/pikachu6.png"}]
+      },{
+        "name":"basic regen",
+        "targetStat": "HP",
+        "targetActorNumber":1,
+        "targetActorType":"friend",
+        "targetValue":10,
+        "targetType":"percent",
+        "animations":[{"key":"default","path":"/resource/pikachu5.png"},{"key":"special","path":"/resource/pikachu6.png"}]
+      },{
+        "name":"special attack",
+        "targetStat": "HP",
+        "targetActorNumber":3,
+        "targetActorType":"enemy",
+        "targetValue":10,
+        "targetType":"percent",
+        "animations":[{"key":"default","path":"/resource/pikachu5.png"},{"key":"special","path":"/resource/pikachu6.png"}]
+      }
+    ]
+
+  }
+  ]
+}

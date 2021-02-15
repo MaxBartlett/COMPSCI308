@@ -1,0 +1,14 @@
+<map>
+  <entry>
+    <string>bossdefeat</string>
+    <engine.backend.Message>
+      <myMessageString>bossdefeat</myMessageString>
+    </engine.backend.Message>
+  </entry>
+  <entry>
+    <string>ondefeat</string>
+    <engine.backend.Message>
+      <myMessageString>bossdefeat</myMessageString>
+    </engine.backend.Message>
+  </entry>
+</map>

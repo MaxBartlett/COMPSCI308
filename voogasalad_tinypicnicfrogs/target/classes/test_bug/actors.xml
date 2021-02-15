@@ -1,0 +1,532 @@
+<map>
+  <entry>
+    <string>default12772-3234-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>2772</x>
+        <y>3234</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.BackgroundInteraction>
+            <animationMap>
+              <entry>
+                <string>idle</string>
+                <engine.backend.AnimationObject>
+                  <animationName>idle</animationName>
+                  <animationPath>1.png</animationPath>
+                  <spriteRows>1</spriteRows>
+                  <spiteCols>1</spiteCols>
+                </engine.backend.AnimationObject>
+              </entry>
+            </animationMap>
+            <messageMap/>
+            <myName>idle</myName>
+            <canPassThrough>true</canPassThrough>
+          </engine.backend.BackgroundInteraction>
+        </entry>
+      </myInteractionMap>
+      <myStatsMap/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default12772-3234-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages/>
+      <myDeactivateMessages/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds>
+        <width>5</width>
+        <height>5</height>
+        <relX>0</relX>
+        <relY>0</relY>
+      </myBounds>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default11848-2310-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>1848</x>
+        <y>2310</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap reference="../../../entry/engine.backend.Actor/myInteractionMap"/>
+      <myStatsMap reference="../../../entry/engine.backend.Actor/myStatsMap"/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default11848-2310-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages reference="../../../entry/engine.backend.Actor/myActivateMessages"/>
+      <myDeactivateMessages reference="../../../entry/engine.backend.Actor/myDeactivateMessages"/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds reference="../../../entry/engine.backend.Actor/myBounds"/>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default11848-2772-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>1848</x>
+        <y>2772</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap reference="../../../entry/engine.backend.Actor/myInteractionMap"/>
+      <myStatsMap reference="../../../entry/engine.backend.Actor/myStatsMap"/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default11848-2772-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages reference="../../../entry/engine.backend.Actor/myActivateMessages"/>
+      <myDeactivateMessages reference="../../../entry/engine.backend.Actor/myDeactivateMessages"/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds reference="../../../entry/engine.backend.Actor/myBounds"/>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default15544-2772-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>5544</x>
+        <y>2772</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap reference="../../../entry/engine.backend.Actor/myInteractionMap"/>
+      <myStatsMap reference="../../../entry/engine.backend.Actor/myStatsMap"/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default15544-2772-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages reference="../../../entry/engine.backend.Actor/myActivateMessages"/>
+      <myDeactivateMessages reference="../../../entry/engine.backend.Actor/myDeactivateMessages"/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds reference="../../../entry/engine.backend.Actor/myBounds"/>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default15544-2310-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>5544</x>
+        <y>2310</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap reference="../../../entry/engine.backend.Actor/myInteractionMap"/>
+      <myStatsMap reference="../../../entry/engine.backend.Actor/myStatsMap"/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default15544-2310-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages reference="../../../entry/engine.backend.Actor/myActivateMessages"/>
+      <myDeactivateMessages reference="../../../entry/engine.backend.Actor/myDeactivateMessages"/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds reference="../../../entry/engine.backend.Actor/myBounds"/>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default11848-3234-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>1848</x>
+        <y>3234</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap reference="../../../entry/engine.backend.Actor/myInteractionMap"/>
+      <myStatsMap reference="../../../entry/engine.backend.Actor/myStatsMap"/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default11848-3234-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages reference="../../../entry/engine.backend.Actor/myActivateMessages"/>
+      <myDeactivateMessages reference="../../../entry/engine.backend.Actor/myDeactivateMessages"/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds reference="../../../entry/engine.backend.Actor/myBounds"/>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default16006-2772-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>6006</x>
+        <y>2772</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap reference="../../../entry/engine.backend.Actor/myInteractionMap"/>
+      <myStatsMap reference="../../../entry/engine.backend.Actor/myStatsMap"/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default16006-2772-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages reference="../../../entry/engine.backend.Actor/myActivateMessages"/>
+      <myDeactivateMessages reference="../../../entry/engine.backend.Actor/myDeactivateMessages"/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds reference="../../../entry/engine.backend.Actor/myBounds"/>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default16006-2310-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>6006</x>
+        <y>2310</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap reference="../../../entry/engine.backend.Actor/myInteractionMap"/>
+      <myStatsMap reference="../../../entry/engine.backend.Actor/myStatsMap"/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default16006-2310-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages reference="../../../entry/engine.backend.Actor/myActivateMessages"/>
+      <myDeactivateMessages reference="../../../entry/engine.backend.Actor/myDeactivateMessages"/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds reference="../../../entry/engine.backend.Actor/myBounds"/>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default12310-2772-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>2310</x>
+        <y>2772</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap reference="../../../entry/engine.backend.Actor/myInteractionMap"/>
+      <myStatsMap reference="../../../entry/engine.backend.Actor/myStatsMap"/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default12310-2772-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages reference="../../../entry/engine.backend.Actor/myActivateMessages"/>
+      <myDeactivateMessages reference="../../../entry/engine.backend.Actor/myDeactivateMessages"/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds reference="../../../entry/engine.backend.Actor/myBounds"/>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default15544-3234-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>5544</x>
+        <y>3234</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap reference="../../../entry/engine.backend.Actor/myInteractionMap"/>
+      <myStatsMap reference="../../../entry/engine.backend.Actor/myStatsMap"/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default15544-3234-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages reference="../../../entry/engine.backend.Actor/myActivateMessages"/>
+      <myDeactivateMessages reference="../../../entry/engine.backend.Actor/myDeactivateMessages"/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds reference="../../../entry/engine.backend.Actor/myBounds"/>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default12772-2772-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>2772</x>
+        <y>2772</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap reference="../../../entry/engine.backend.Actor/myInteractionMap"/>
+      <myStatsMap reference="../../../entry/engine.backend.Actor/myStatsMap"/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default12772-2772-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages reference="../../../entry/engine.backend.Actor/myActivateMessages"/>
+      <myDeactivateMessages reference="../../../entry/engine.backend.Actor/myDeactivateMessages"/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds reference="../../../entry/engine.backend.Actor/myBounds"/>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default16006-3234-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>6006</x>
+        <y>3234</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap reference="../../../entry/engine.backend.Actor/myInteractionMap"/>
+      <myStatsMap reference="../../../entry/engine.backend.Actor/myStatsMap"/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default16006-3234-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages reference="../../../entry/engine.backend.Actor/myActivateMessages"/>
+      <myDeactivateMessages reference="../../../entry/engine.backend.Actor/myDeactivateMessages"/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds reference="../../../entry/engine.backend.Actor/myBounds"/>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default12310-2310-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>2310</x>
+        <y>2310</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap reference="../../../entry/engine.backend.Actor/myInteractionMap"/>
+      <myStatsMap reference="../../../entry/engine.backend.Actor/myStatsMap"/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default12310-2310-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages reference="../../../entry/engine.backend.Actor/myActivateMessages"/>
+      <myDeactivateMessages reference="../../../entry/engine.backend.Actor/myDeactivateMessages"/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds reference="../../../entry/engine.backend.Actor/myBounds"/>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default12772-2310-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>2772</x>
+        <y>2310</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap reference="../../../entry/engine.backend.Actor/myInteractionMap"/>
+      <myStatsMap reference="../../../entry/engine.backend.Actor/myStatsMap"/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default12772-2310-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages reference="../../../entry/engine.backend.Actor/myActivateMessages"/>
+      <myDeactivateMessages reference="../../../entry/engine.backend.Actor/myDeactivateMessages"/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds reference="../../../entry/engine.backend.Actor/myBounds"/>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default43234-924-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>3234</x>
+        <y>924</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.BackgroundInteraction>
+            <animationMap>
+              <entry>
+                <string>idle</string>
+                <engine.backend.AnimationObject>
+                  <animationName>idle</animationName>
+                  <animationPath>4.png</animationPath>
+                  <spriteRows>1</spriteRows>
+                  <spiteCols>1</spiteCols>
+                </engine.backend.AnimationObject>
+              </entry>
+            </animationMap>
+            <messageMap/>
+            <myName>idle</myName>
+            <canPassThrough>true</canPassThrough>
+          </engine.backend.BackgroundInteraction>
+        </entry>
+      </myInteractionMap>
+      <myStatsMap/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>4.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default43234-924-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages/>
+      <myDeactivateMessages/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds>
+        <width>5</width>
+        <height>5</height>
+        <relX>0</relX>
+        <relY>0</relY>
+      </myBounds>
+    </engine.backend.Actor>
+  </entry>
+  <entry>
+    <string>default12310-3234-1</string>
+    <engine.backend.Actor>
+      <myCoordinate>
+        <x>2310</x>
+        <y>3234</y>
+        <z>1</z>
+      </myCoordinate>
+      <myInteractionMap reference="../../../entry/engine.backend.Actor/myInteractionMap"/>
+      <myStatsMap reference="../../../entry/engine.backend.Actor/myStatsMap"/>
+      <myAnimationMap>
+        <entry>
+          <string>idle</string>
+          <engine.backend.AnimationObject>
+            <animationName>idle</animationName>
+            <animationPath>1.png</animationPath>
+            <coordinate reference="../../../../myCoordinate"/>
+            <spriteRows>1</spriteRows>
+            <spiteCols>1</spiteCols>
+          </engine.backend.AnimationObject>
+        </entry>
+      </myAnimationMap>
+      <myName>default12310-3234-1</myName>
+      <myActiveAnimation reference="../myAnimationMap/entry/engine.backend.AnimationObject"/>
+      <myActivateMessages reference="../../../entry/engine.backend.Actor/myActivateMessages"/>
+      <myDeactivateMessages reference="../../../entry/engine.backend.Actor/myDeactivateMessages"/>
+      <isPlayerActor>false</isPlayerActor>
+      <myBounds reference="../../../entry/engine.backend.Actor/myBounds"/>
+    </engine.backend.Actor>
+  </entry>
+</map>

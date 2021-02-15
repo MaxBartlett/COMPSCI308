@@ -1,0 +1,43 @@
+<authoring.authoring__backend.ActorPrototype>
+  <animationMap>
+    <entry>
+      <string>idle</string>
+      <string>/resource/grass.png</string>
+    </entry>
+  </animationMap>
+  <interractionMap>
+    <entry>
+      <string>background</string>
+      <engine.backend.BackgroundInteraction>
+        <animationMap>
+          <entry>
+            <string>default</string>
+            <engine.backend.AnimationObject>
+              <animationName>default</animationName>
+              <animationPath>/resource/grass.png</animationPath>
+            </engine.backend.AnimationObject>
+          </entry>
+        </animationMap>
+        <messageMap>
+          <entry>
+            <string>backroundTouched</string>
+            <engine.backend.Message>
+              <myMessageString>Player won</myMessageString>
+            </engine.backend.Message>
+          </entry>
+        </messageMap>
+        <myName>background</myName>
+        <canPassThrough>false</canPassThrough>
+      </engine.backend.BackgroundInteraction>
+    </entry>
+  </interractionMap>
+  <myStats/>
+  <name>grass</name>
+  <myBound>
+    <width>5</width>
+    <height>5</height>
+    <relX>0</relX>
+    <relY>0</relY>
+  </myBound>
+  <isPlayer>false</isPlayer>
+</authoring.authoring__backend.ActorPrototype>

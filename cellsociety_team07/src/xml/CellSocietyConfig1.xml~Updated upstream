@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simulation simType = "Life">
+    <simAuthor> John Conway </simAuthor>
+    <simTitle> LifeTest1 </simTitle>
+
+    <globalParam>
+        <!-- Specific simulation parameters go here -->
+        <!-- Fire: <probCatch> -->
+        <!-- Seg: <percentSatisfaction> -->
+        <!-- WaTor: <sharkLifetime> -->
+        <!-- WaTor: <fishLifetime> -->
+    </globalParam>
+
+    <grid>
+        <gridSize>
+            <xdim> 3 </xdim>
+            <ydim> 3 <!-- Initial size of a grid column--> </ydim>
+        </gridSize>
+
+        <beginCells>
+            <row1> L D L <!-- Place representation for row of cells here--> </row1>
+            <row2> L L D </row2>
+            <row3> D D L </row3>
+        </beginCells>
+    </grid>
+
+</simulation>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simulation simType = "Life">
+<simAuthor> John Conway </simAuthor>
+<simTitle> LifeTest0 </simTitle>
+
+<globalParam>
+    <!-- Specific simulation parameters go here -->
+    <!-- Fire: <probCatch> -->
+    <!-- Seg: <percentSatisfaction> -->
+    <!-- WaTor: <sharkLifetime> -->
+    <!-- WaTor: <fishLifetime> -->
+</globalParam>
+
+<grid>
+    <gridSize>
+        <xdim> 25 </xdim>
+        <ydim> 25 <!-- Initial size of a grid column--> </ydim>
+    </gridSize>
+
+    <beginCells>
+        <row1> D L D L L L D D D D L L L D D D L L L L D D D D D <!-- Place representation for row of cells here--> </row1>
+        <row2> D L D L L L D D L D L L L D D D L L L L D D D D D  </row2>
+        <row3> D L D L L L D D D D L L L D D D L L L L D D D D D  </row3>
+        <row4> D L D L L L D L D D D D L D D D L L L L D D D D D  </row4>
+        <row5> D L D L L L D D D D L D L D D D L L L L D D D D D  </row5>
+        <row6> L L D L L L D D D D L D L D D D L L L L D D D D D  </row6>
+        <row7> D L D L L L D D D D L D L D D D L L L L D D D D D  </row7>
+        <row8> D L D L L L D D D D L L L D D D L L L L D D D D D  </row8>
+        <row9> L L D L L L D D D D L L L D D D L L L L D D D D D  </row9>
+        <row10> D L D L L L D D D D L L L D D D L L L L D D D D D  </row10>
+        <row11> D L D L L L D D D D L L L D D D L L L L D D D D D  </row11>
+        <row12> D L D L L L D D L D L L L D D D L L L L D D D D D  </row12>
+        <row13> D L D L L L D D D D L L L D D D L L L L D D D D D </row13>
+        <row14> L L D L L L D D D D L L D D D D L L L L D D D D D  </row14>
+        <row15> D L D L L L D D D D L L L D D D L L L L D D D D D  </row15>
+        <row16> D D D L L L D D D D L L L D D D L L L L D D D D D  </row16>
+        <row17> D D D L L L D D L D L L D D D D L L L L D D D D D  </row17>
+        <row18> D L D L L L D D D D L L L D D D L L L L D D D D D  </row18>
+        <row19> D D D L L L D D D D L L L D D D L L L L D D D D D  </row19>
+        <row20> D L D L L L D D L D L L L D D D L L L L D D D D D  </row20>
+        <row21> D L D L L L L L L L L L L D D D L L L L D D D D D  </row21>
+        <row22> D D D L L L D D D D L L D D D D L L L L D D D D D  </row22>
+        <row23> L L D L L L D D D D L L L D D D L L L L D D D D D  </row23>
+        <row24> L L D L L L D D L D L L D D D D L L L L D D D D D  </row24>
+        <row25> D L D L L L D D D D L L L D D D L L L L D D D D D </row25>
+    </beginCells>
+</grid>
+
+</simulation>

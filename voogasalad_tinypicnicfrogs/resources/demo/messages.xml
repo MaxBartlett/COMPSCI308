@@ -1,0 +1,14 @@
+<map>
+  <entry>
+    <string>onVictory</string>
+    <engine.backend.Message>
+      <myMessageString>Player won</myMessageString>
+    </engine.backend.Message>
+  </entry>
+  <entry>
+    <string>onDefeat</string>
+    <engine.backend.Message>
+      <myMessageString>Game over</myMessageString>
+    </engine.backend.Message>
+  </entry>
+</map>

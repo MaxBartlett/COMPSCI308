@@ -1,0 +1,14 @@
+<map>
+  <entry>
+    <string>del</string>
+    <engine.backend.Message>
+      <myMessageString>del</myMessageString>
+    </engine.backend.Message>
+  </entry>
+  <entry>
+    <string>ontouch</string>
+    <engine.backend.Message>
+      <myMessageString>del</myMessageString>
+    </engine.backend.Message>
+  </entry>
+</map>

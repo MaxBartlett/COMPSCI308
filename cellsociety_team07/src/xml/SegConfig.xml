@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simulation simType = "Seg">
+    <simAuthor> Max Bartlett </simAuthor>
+    <simTitle> LifeTest1 </simTitle>
+
+    <globalParam>
+        <!-- Specific simulation parameters go here -->
+        <!-- Fire: <probCatch> -->
+        <!-- Seg: <percentSatisfaction> -->
+        <!-- WaTor: <sharkLifetime> -->
+        <!-- WaTor: <fishLifetime> -->
+        <percentSatisfaction> .5 </percentSatisfaction>
+    </globalParam>
+
+    <grid>
+        <gridSize>
+            <xdim> 3 </xdim>
+            <ydim> 3 <!-- Initial size of a grid column--> </ydim>
+        </gridSize>
+
+        <beginCells>
+            <row1> 1 E E <!-- Place representation for row of cells here--> </row1>
+            <row2> 2 E 2 </row2>
+            <row3> 1 2 E </row3>
+        </beginCells>
+    </grid>
+
+</simulation>

@@ -1,0 +1,20 @@
+<map>
+  <entry>
+    <string>onvictory</string>
+    <engine.backend.Message>
+      <myMessageString>You Win</myMessageString>
+    </engine.backend.Message>
+  </entry>
+  <entry>
+    <string>ondefeat</string>
+    <engine.backend.Message>
+      <myMessageString>lose</myMessageString>
+    </engine.backend.Message>
+  </entry>
+  <entry>
+    <string>ontouch</string>
+    <engine.backend.Message>
+      <myMessageString>ouch!</myMessageString>
+    </engine.backend.Message>
+  </entry>
+</map>

@@ -1,0 +1,26 @@
+<map>
+  <entry>
+    <string>bossdefeat</string>
+    <engine.backend.Message>
+      <myMessageString>bossdefeat</myMessageString>
+    </engine.backend.Message>
+  </entry>
+  <entry>
+    <string>ondefeat</string>
+    <engine.backend.Message>
+      <myMessageString>bossdefeat</myMessageString>
+    </engine.backend.Message>
+  </entry>
+  <entry>
+    <string>lever</string>
+    <engine.backend.Message>
+      <myMessageString>lever</myMessageString>
+    </engine.backend.Message>
+  </entry>
+  <entry>
+    <string>ontouch</string>
+    <engine.backend.Message>
+      <myMessageString>lever</myMessageString>
+    </engine.backend.Message>
+  </entry>
+</map>

@@ -1,0 +1,1 @@
+This repository contains my projects for COMPSCI308: Advanced Software Design and Implementation for Fall 2018 at Duke University. For more information, refer to the course website [here](https://www2.cs.duke.edu/courses/compsci308/fall18/#gsc.tab=0).

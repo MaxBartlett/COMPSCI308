@@ -1,0 +1,14 @@
+<map>
+  <entry>
+    <string>hi</string>
+    <engine.backend.Message>
+      <myMessageString>bye bitch!!!!</myMessageString>
+    </engine.backend.Message>
+  </entry>
+  <entry>
+    <string>hii</string>
+    <engine.backend.Message>
+      <myMessageString>hey</myMessageString>
+    </engine.backend.Message>
+  </entry>
+</map>

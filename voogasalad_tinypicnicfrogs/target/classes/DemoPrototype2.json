@@ -1,0 +1,37 @@
+{
+  "name":"enemy",
+  "animations":[{"key":"idle","path":"enemy_idle.png"},{"key":"left","path":"enemy_left.png"},{"key":"right","path":"enemy_right.png"},{"key":"top","path":"enemy_top.png"},{"key":"bottom","path":"enemy_bot.png"}],
+  "stats":[{"key":"health","value":50}
+
+  ],
+  "isPlayer":true,
+  "bounds":{
+    "relX":0,
+    "relY":0,
+    "width":50,
+    "height":50
+  },
+  "interactions": [{
+    "name":"fight",
+    "type":"fight",
+    "animations":[{"key":"default","path":"enemy_fight.png"}],
+    "messages":[
+      {"key":"prototypeVictory","messageKey":"onVictory"},
+      {"key":"prototypeDefeat","messageKey":"onDefeat"}
+    ],
+
+    "moves":[
+      {
+        "name":"basic attack",
+        "targetStat": "HP",
+        "targetActorNumber":1,
+        "targetActorType":"enemy",
+        "targetValue":10,
+        "targetType":"constant",
+        "animations":[{"key":"default","path":"enemy_left.png"}]
+      }
+    ]
+
+  }
+  ]
+}

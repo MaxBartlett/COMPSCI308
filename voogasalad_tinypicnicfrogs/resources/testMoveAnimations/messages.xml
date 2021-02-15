@@ -1,0 +1,8 @@
+<map>
+  <entry>
+    <string>defeatMessage</string>
+    <engine.backend.Message>
+      <myMessageString>prototypeDefeated</myMessageString>
+    </engine.backend.Message>
+  </entry>
+</map>

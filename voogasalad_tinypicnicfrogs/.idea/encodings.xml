@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/resources/3221.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/3223.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/3231.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/3243.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/3249.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/3250.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/3251.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/3251.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/3252.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/cobweb.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/dragon_attack.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/dragon_idle.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/goblin_down.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/goblin_left.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/goblin_right.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/goblin_up.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/tree1.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/tree2.png" charset="UTF-8" />
+  </component>
+</project>

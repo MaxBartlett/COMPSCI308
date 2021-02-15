@@ -1,0 +1,19 @@
+SETBG 123
+SETPC 789
+rt 50
+fd 80
+lt 90
+repeat 90
+[
+  bk 5 lt 2
+]
+repeat 45
+[
+  fd 5 rt 2
+]
+lt 90
+fd 80
+bk 240
+lt 90
+fd 50
+bk 100

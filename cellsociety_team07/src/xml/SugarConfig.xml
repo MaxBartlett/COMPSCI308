@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simulation simType = "Sugar">
+    <simAuthor> Max Bartlett </simAuthor>
+    <simTitle> LifeTest1 </simTitle>
+
+    <globalParam>
+        <!-- Specific simulation parameters go here -->
+        <!-- Fire: <probCatch> -->
+        <!-- Seg: <percentSatisfaction> -->
+        <!-- WaTor: <sharkLifetime> -->
+        <!-- WaTor: <fishLifetime> -->
+        <growthRate>4</growthRate>
+        <metabolismRate>4</metabolismRate>
+        <visionRange>10</visionRange>
+    </globalParam>
+
+    <grid>
+        <gridSize>
+            <xdim> 10 </xdim>
+            <ydim> 10 <!-- Initial size of a grid column--> </ydim>
+        </gridSize>
+
+        <beginCells>
+            <row1> S A S S S S S S A S <!-- Place representation for row of cells here--> </row1>
+            <row2> S S S S S S S S S S </row2>
+            <row3> S S S A S S S A S S </row3>
+            <row4> A S S S A S S S S S </row4>
+            <row5> S S S S S S S A S A </row5>
+            <row6> S A S S S S S S S S </row6>
+            <row7> S S A S S A S S S S </row7>
+            <row8> S S S S S S S A S S </row8>
+            <row9> S S S S S S S S S S </row9>
+            <row10> S S S A S S S S A S </row10>
+        </beginCells>
+    </grid>
+
+</simulation>

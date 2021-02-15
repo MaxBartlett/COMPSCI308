@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simulation simType = "Seg">
+    <simAuthor> Max Bartlett </simAuthor>
+    <simTitle> BigSegTest1 </simTitle>
+
+    <globalParam>
+        <!-- Specific simulation parameters go here -->
+        <!-- Fire: <probCatch> -->
+        <!-- Seg: <percentSatisfaction> -->
+        <!-- WaTor: <sharkLifetime> -->
+        <!-- WaTor: <fishLifetime> -->
+        <percentSatisfaction> .35 </percentSatisfaction>
+    </globalParam>
+
+    <grid>
+        <gridSize>
+            <xdim> 25 </xdim>
+            <ydim> 25 <!-- Initial size of a grid column--> </ydim>
+        </gridSize>
+
+        <beginCells>
+            <row1> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 1 1 E 2 2 E <!-- Place representation for row of cells here--> </row1>
+            <row2> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 1 1 E 2 2 E  </row2>
+            <row3> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 1 1 E 2 2 E  </row3>
+            <row4> 1 1 1 2 2 2 E 2 2 2 1 1 1 1 1 E E E E E E E 2 2 E  </row4>
+            <row5> 2 2 2 2 2 2 E 2 2 2 2 E E E E E E E E E E E 2 2 E  </row5>
+            <row6> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 1 1 E 2 2 E  </row6>
+            <row7> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 1 1 E 2 2 E  </row7>
+            <row8> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 1 1 E 2 2 E  </row8>
+            <row9> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 1 1 E 2 2 E  </row9>
+            <row10> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 1 1 E 2 2 E  </row10>
+            <row11> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 1 1 E 2 2 E  </row11>
+            <row12> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 1 1 E 2 2 E  </row12>
+            <row13> 2 2 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 1 1 E 2 2 E </row13>
+            <row14> 1 E E E E E E 2 2 2 E E E E E E E E 1 1 1 E 2 2 E  </row14>
+            <row15> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 2 2 1 E 2 2 E  </row15>
+            <row16> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 2 2 1 E 2 2 E  </row16>
+            <row17> 1 E 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 2 1 E 2 2 E  </row17>
+            <row18> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 2 1 E 2 2 E  </row18>
+            <row19> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 2 1 E 2 2 E  </row19>
+            <row20> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 2 1 E 2 2 E  </row20>
+            <row21> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 1 1 E 2 2 E  </row21>
+            <row22> 1 1 1 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 2 1 E 2 2 E  </row22>
+            <row23> 1 1 1 1 2 2 E 2 2 2 1 1 1 1 1 E E E 1 1 1 E 2 2 E  </row23>
+            <row24> 1 1 1 1 1 2 E 2 2 2 1 1 1 1 1 E E E 1 1 1 E 2 2 E  </row24>
+            <row25> 1 1 2 2 2 2 E 2 2 2 1 1 1 1 1 E E E 1 2 1 E 2 2 E </row25>
+        </beginCells>
+    </grid>
+
+</simulation>

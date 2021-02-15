@@ -1,0 +1,11 @@
+<list>
+  <authoring.authoring__backend.GameData>
+    <title>testList</title>
+    <description>test of List</description>
+    <path>C:\Users\Michael\Documents\CS308\Vooga\vooga\voogasalad_tinypicnicfrogs\resources\testSave/</path>
+    <mapWidth>480</mapWidth>
+    <mapHeight>320</mapHeight>
+    <squareWidth>16</squareWidth>
+    <squareHeight>16</squareHeight>
+  </authoring.authoring__backend.GameData>
+</list>

@@ -1,0 +1,23 @@
+{
+
+  "name":"grass",
+  "animations":[{"key":"idle","path":"/resource/grass.png"}],
+  "stats":[],
+  "bounds":{
+    "relX":0,
+    "relY":0,
+    "width":5,
+    "height":5
+  },
+  "isPlayer":false,
+  "Interactions": [{
+    "name":"background",
+    "type":"background",
+    "canPassThrough":false,
+    "Messages":[
+      {"key":"backroundTouched","messageKey":"onVictory"}
+
+    ],
+    "animations":[{"key":"default","path":"/resource/grass.png"}]}]
+
+}

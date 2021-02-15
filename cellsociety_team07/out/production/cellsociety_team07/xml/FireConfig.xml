@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simulation simType = "Fire">
+    <simAuthor> Max Bartlett </simAuthor>
+    <simTitle> LifeTest1 </simTitle>
+
+    <globalParam>
+        <!-- Specific simulation parameters go here -->
+        <!-- Fire: <probCatch> -->
+        <!-- Seg: <percentSatisfaction> -->
+        <!-- WaTor: <sharkLifetime> -->
+        <!-- WaTor: <fishLifetime> -->
+        <probCatch> 0.68 </probCatch>
+    </globalParam>
+
+    <grid>
+        <gridSize>
+            <xdim> 50 <!-- Initial size of a grid row--> </xdim>
+            <ydim> 50<!-- Initial size of a grid column--> </ydim>
+        </gridSize>
+
+        <!-- Determines HOW grid is initialized -->
+        <!-- specific = grid is explicitly laid out by user in beginCells block -->
+        <!-- random = grid is determined randomly  -->
+        <!-- weightedrandom = grid is determined randomly based on cell probabilities -->
+        <initializeType> weightedrandom </initializeType>
+        <weightedrandom>
+            <B> 0.2 </B>
+            <U> 0.2 </U>
+            <T> 0.6 </T>
+        </weightedrandom>
+
+        <beginCells>
+        </beginCells>
+    </grid>
+
+</simulation>

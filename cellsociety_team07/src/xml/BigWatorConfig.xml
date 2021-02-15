@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simulation simType = "Wator">
+    <simAuthor> Max Bartlett </simAuthor>
+    <simTitle> LifeTest1 </simTitle>
+
+    <globalParam>
+        <!-- Specific simulation parameters go here -->
+        <!-- Fire: <probCatch> -->
+        <!-- Seg: <percentSatisfaction> -->
+        <!-- WaTor: <sharkSpawnTurns> -->
+        <!-- WaTor: <fishSpawnTurns> -->
+        <sharkSpawnTurns> 4 </sharkSpawnTurns>
+        <fishSpawnTurns> 4 </fishSpawnTurns>
+    </globalParam>
+
+    <grid>
+        <gridSize>
+            <xdim> 3 </xdim>
+            <ydim> 3 <!-- Initial size of a grid column--> </ydim>
+        </gridSize>
+        <initializeType>specific</initializeType>
+        <beginCells>
+            <row1> W W W <!-- Place representation for row of cells here--> </row1>
+            <row2> W F K </row2>
+            <row3> W W K </row3>
+
+        </beginCells>
+    </grid>
+
+</simulation>
+
+

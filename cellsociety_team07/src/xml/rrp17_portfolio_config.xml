@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simulation simType = "Fire">
+    <simAuthor> Ryan Piersma </simAuthor>
+    <simTitle> Portfolio Weighted Random Showing </simTitle>
+
+    <globalParam>
+        <!-- Specific simulation parameters go here -->
+        <!-- Fire: <probCatch> -->
+        <!-- Seg: <percentSatisfaction> -->
+        <!-- WaTor: <sharkLifetime> -->
+        <!-- WaTor: <fishLifetime> -->
+        <probCatch> .6 </probCatch>
+    </globalParam>
+
+    <grid>
+        <gridSize>
+            <xdim> 200 </xdim>
+            <ydim> 200 <!-- Initial size of a grid column--> </ydim>
+        </gridSize>
+
+        <initializeType> weightedrandom </initializeType>
+        <weightedrandom>
+            <B> 0.01 </B>
+            <U> 0.0 </U>
+            <T> 0.99 </T>
+        </weightedrandom>
+    </grid>
+
+</simulation>

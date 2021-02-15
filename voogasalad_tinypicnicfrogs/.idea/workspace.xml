@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28ac831d-dd61-4c9e-944e-cc3904d7758c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Demo.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/666.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/allen/actors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/allen/map.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/allen/messages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/allen/prototypes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/allendone/actors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/allendone/map.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/allendone/messages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/allendone/prototypes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/clin_doors.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/clin_gnu_battle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/clin_gnu_idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/clin_minion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/clin_stonewalls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/complex1/actors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/complex1/map.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/complex1/messages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/complex1/prototypes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/complex2/actors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/complex2/map.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/complex2/messages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/complex2/prototypes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/rocky/actors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/rocky/map.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/rocky/messages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/rocky/prototypes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/switch-lever-on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/walkaround/actors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/walkaround/map.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/walkaround/messages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/walkaround/prototypes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/default.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/games.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/games.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/authoring/authoring_backend/ActorPrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/authoring/authoring_backend/ActorPrototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/authoring/authoring_backend/DialogueManagerRewrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/authoring/authoring_backend/DialogueManagerRewrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/AITurn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/AITurn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/BackgroundInteraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/BackgroundInteraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/Bounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/Bounds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/CombatInteraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/CombatInteraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/CombatManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/CombatManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/Commands/CombatMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/Commands/CombatMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/Commands/DialogueSelectCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/Commands/DialogueSelectCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/Commands/MoveDownCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/Commands/MoveDownCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/Commands/MoveLeftCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/Commands/MoveLeftCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/Commands/MoveRightCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/Commands/MoveRightCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/Commands/MoveUpCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/Commands/MoveUpCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/Commands/TestCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/Commands/TestCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/Coordinate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/Coordinate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/GameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/GameState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/GameWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/GameWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/Heading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/Heading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/PlayerTurn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/PlayerTurn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/RandomAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/RandomAI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/ServiceLocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/ServiceLocator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/gameevent/AnimationFinishedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/gameevent/AnimationFinishedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/gameevent/GameEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/gameevent/GameEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/gameevent/GameKeyEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/gameevent/GameKeyEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/gameevent/GameMenuEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/gameevent/GameMenuEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/backend/gameevent/InputSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/backend/gameevent/InputSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/frontend/game_engine_UI/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/frontend/game_engine_UI/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="880705465">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="24" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="6" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="29" />
+          <entry key="java" value="11029" />
+          <entry key="properties" value="62" />
+          <entry key="xml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="11029" />
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="Properties" value="62" />
+          <entry key="XML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="221" />
+          <entry key="md" value="6" />
+          <entry key="png" value="14" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="14" />
+          <entry key="JAVA" value="221" />
+          <entry key="Markdown" value="6" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/FormBoxes/AnimationBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/FormBoxes/BoundsBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/FormBoxes/FormBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/FormBoxes/InteractionBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3126">
+              <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/plan/DESIGN_PLAN.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-74">
+                <caret line="53" column="7" lean-forward="true" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>launchInter</find>
+      <find>addDialog</find>
+      <find>addList</find>
+      <find>myIntera</find>
+      <find>load</find>
+      <find>form</find>
+      <find>getGridPane</find>
+      <find>getGridPaneNodeAt</find>
+      <find>true</find>
+      <find>&quot;acc</find>
+      <find>englis</find>
+      <find>edit</find>
+      <find>filechooser</find>
+      <find>players</find>
+      <find>hpBar</find>
+      <find>getAlliesHealth</find>
+      <find>controller</find>
+      <find>\\\\</find>
+      <find>myName</find>
+      <find>getInteraction</find>
+      <find>message</find>
+      <find>&quot;idle</find>
+      <find>myStatsMap</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/engine/backend/interactions/DialogueInteraction.java" />
+        <option value="$PROJECT_DIR$/src/engine/backend/interactions/Interaction.java" />
+        <option value="$PROJECT_DIR$/src/engine/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/src/engine/backend/Commands/DialogueSelectCommand.java" />
+        <option value="$PROJECT_DIR$/src/engine/backend/GameWorld.java" />
+        <option value="$PROJECT_DIR$/src/engine/backend/DialogueTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/engine/backend/DialogueInteraction.java" />
+        <option value="$PROJECT_DIR$/src/engine/backend/Actor.java" />
+        <option value="$PROJECT_DIR$/src/engine/backend/ActorManager.java" />
+        <option value="$PROJECT_DIR$/src/engine/backend/BackgroundInteraction.java" />
+        <option value="$PROJECT_DIR$/src/engine/frontend/game_engine_UI/MenuView/BattleMenu.java" />
+        <option value="$PROJECT_DIR$/src/engine/frontend/game_engine_UI/MenuView/MenuView.java" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_frontend/Map.java" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_backend/MapManager.java" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_frontend/Grid.java" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_frontend/MapManager.java" />
+        <option value="$PROJECT_DIR$/resources/English.properties" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_frontend/Main.java" />
+        <option value="$PROJECT_DIR$/src/player/GamePaneManager.java" />
+        <option value="$PROJECT_DIR$/src/player/SceneManager.java" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_frontend/AuthoringView.java" />
+        <option value="$PROJECT_DIR$/resources/poo/prototypes.xml" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_backend/ActorPrototypeManager.java" />
+        <option value="$PROJECT_DIR$/src/engine/frontend/game_engine_UI/BattleWorld/PlayerSide.java" />
+        <option value="$PROJECT_DIR$/src/engine/frontend/game_engine_UI/BattleWorld/OpponentSide.java" />
+        <option value="$PROJECT_DIR$/src/engine/frontend/game_engine_UI/AnimationProcesser/SpriteProcessor.java" />
+        <option value="$PROJECT_DIR$/src/engine/frontend/game_engine_UI/OverWorld/OverWorldView.java" />
+        <option value="$PROJECT_DIR$/src/engine/frontend/game_engine_UI/BattleWorld/SideView.java" />
+        <option value="$PROJECT_DIR$/src/engine/frontend/game_engine_UI/BattleWorld/BattleView.java" />
+        <option value="$PROJECT_DIR$/resources/games.xml" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_backend/ActorPrototype.java" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_backend/GameManager.java" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_frontend/TopMenu.java" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_frontend/PopupFactory.java" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_frontend/Forms/PrototypeForm.java" />
+        <option value="$PROJECT_DIR$/src/engine/frontend/game_engine_UI/Main.java" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_frontend/Forms/LoadForm.java" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_frontend/Forms/EditPrototypeForm.java" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_frontend/Forms/SaveForm.java" />
+        <option value="$PROJECT_DIR$/src/authoring/authoring_frontend/FormBoxes/AnimationBox.java" />
+        <option value="$PROJECT_DIR$/src/engine/backend/AnimationObject.java" />
+        <option value="$PROJECT_DIR$/../portfolio_mmb70/04_voogasalad/Actor.java" />
+        <option value="$PROJECT_DIR$/../portfolio_mmb70/04_voogasalad/CharacterActor.java" />
+        <option value="$PROJECT_DIR$/../portfolio_mmb70/04_voogasalad/BackgroundActor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="437" />
+    <option name="y" value="23" />
+    <option name="width" value="972" />
+    <option name="height" value="814" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="example_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="plan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="202020" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="allen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="allendone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="authoring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="authoring" type="462c0819:PsiDirectoryNode" />
+              <item name="authoring_backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="authoring" type="462c0819:PsiDirectoryNode" />
+              <item name="authoring_frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="authoring" type="462c0819:PsiDirectoryNode" />
+              <item name="authoring_frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="FormBoxes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="authoring" type="462c0819:PsiDirectoryNode" />
+              <item name="authoring_frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="Forms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="voogasalad_TinyPicnicFrogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voogasalad_tinypicnicfrogs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="authoring" type="462c0819:PsiDirectoryNode" />
+              <item name="authoring_frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="PopupWindows" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544836430235" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35243797" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PlayerMain">
+    <configuration name="Authoring" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="authoring.authoring_frontend.Main" />
+      <module name="voogasalad_TinyPicnicFrogs" />
+      <option name="VM_PARAMETERS" value="--add-opens java.base/java.lang.reflect=xstream --add-opens java.base/java.util=xstream --add-opens java.base/java.text=xstream --add-opens java.desktop/java.awt.font=xstream" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Engine" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="engine.frontend.game_engine_UI.Main" />
+      <module name="voogasalad_TinyPicnicFrogs" />
+      <option name="VM_PARAMETERS" value="--add-opens java.base/java.lang.reflect=xstream --add-opens java.base/java.util=xstream --add-opens java.base/java.text=xstream --add-opens java.desktop/java.awt.font=xstream" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerMain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="player.PlayerMain" />
+      <module name="voogasalad_TinyPicnicFrogs" />
+      <option name="VM_PARAMETERS" value="--add-opens java.base/java.lang.reflect=xstream --add-opens java.base/java.util=xstream --add-opens java.base/java.text=xstream --add-opens java.desktop/java.awt.font=xstream" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Engine" />
+      <item itemvalue="Application.Authoring" />
+      <item itemvalue="Application.PlayerMain" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28ac831d-dd61-4c9e-944e-cc3904d7758c" name="Default Changelist" comment="" />
+      <created>1544318093441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544318093441</updated>
+      <workItem from="1544318095128" duration="10524000" />
+      <workItem from="1544334180815" duration="5000" />
+      <workItem from="1544337348635" duration="4651000" />
+      <workItem from="1544346235437" duration="191000" />
+      <workItem from="1544385722700" duration="4824000" />
+      <workItem from="1544396538260" duration="11000" />
+      <workItem from="1544396553973" duration="9000" />
+      <workItem from="1544417146855" duration="5232000" />
+      <workItem from="1544496793500" duration="719000" />
+      <workItem from="1544498457593" duration="119000" />
+      <workItem from="1544503839836" duration="1406000" />
+      <workItem from="1544567819283" duration="3506000" />
+      <workItem from="1544575990878" duration="25170000" />
+      <workItem from="1544603285054" duration="201000" />
+      <workItem from="1544603632013" duration="616000" />
+      <workItem from="1544605239643" duration="563000" />
+      <workItem from="1544610797872" duration="598000" />
+      <workItem from="1544644108807" duration="4576000" />
+      <workItem from="1544649667715" duration="6009000" />
+      <workItem from="1544659668027" duration="1332000" />
+      <workItem from="1544664512322" duration="489000" />
+      <workItem from="1544732150312" duration="7404000" />
+      <workItem from="1544914039386" duration="1038000" />
+      <workItem from="1544928096657" duration="3589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="82782000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="437" y="23" width="972" height="814" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69278353" visible="true" weight="0.227957" />
+      <window_info id="Structure" order="1" sideWeight="0.3072165" side_tool="true" weight="0.2712161" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32823366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34061137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991655" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896653" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32916668" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.31855956" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32751092" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/authoring/authoring_frontend/Grid.java</url>
+          <line>329</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/player/GamePaneManager.java</url>
+          <line>38</line>
+          <properties field="gameDataList" class="player.GamePaneManager" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/engine/frontend/game_engine_UI/AnimationProcesser/SpriteProcessor.java</url>
+          <line>10</line>
+          <properties field="mySprite" class="engine.frontend.game_engine_UI.AnimationProcesser.SpriteProcessor" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_backend/GameManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="180" column="41" selection-start-line="180" selection-start-column="41" selection-end-line="180" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_backend/ActorPrototype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/TopMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3870">
+          <caret line="271" selection-start-line="271" selection-end-line="271" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/PopupFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../portfolio_mmb70/04_voogasalad/NPCactor.java" />
+    <entry file="file://$PROJECT_DIR$/../portfolio_mmb70/04_voogasalad/Background.java" />
+    <entry file="file://$PROJECT_DIR$/src/engine/backend/DialogueTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/backend/DialogueInteraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/plan/PROJECT_PLAN.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/frontend/game_engine_UI/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/backend/AnimationObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../portfolio_mmb70/04_voogasalad/Actor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="103" column="77" selection-start-line="103" selection-start-column="15" selection-end-line="103" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../portfolio_mmb70/04_voogasalad/CharacterActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1083">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../portfolio_mmb70/04_voogasalad/BackgroundActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/plan/CONTRACT.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/backend/Broadcaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/backend/Bounds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/backend/Heading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/backend/Turn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/frontend/game_engine_UI/OverWorld/OverWorldView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/frontend/game_engine_UI/SplashScreen/Pause.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/frontend/game_engine_UI/SplashScreen/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/frontend/game_engine_UI/SplashScreen/Victory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/backend/GameWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+          <folding>
+            <element signature="e#8257#8258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/backend/ServiceLocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/backend/LowestHealthFirstInitiative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/AuthoringView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-632">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/Forms/PrototypeForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="388" column="29" lean-forward="true" selection-start-line="388" selection-start-column="29" selection-end-line="388" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/Actor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/ActorManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2730">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/backend/Actor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+          <folding>
+            <element signature="e#2610#2611#0" expanded="true" />
+            <element signature="e#2632#2633#0" expanded="true" />
+            <element signature="e#2719#2720#0" expanded="true" />
+            <element signature="e#2750#2751#0" expanded="true" />
+            <element signature="e#2822#2823#0" expanded="true" />
+            <element signature="e#2848#2849#0" expanded="true" />
+            <element signature="e#2921#2922#0" expanded="true" />
+            <element signature="e#2948#2949#0" expanded="true" />
+            <element signature="e#5626#5627#0" expanded="true" />
+            <element signature="e#5666#5667#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/frontend/game_engine_UI/AnimationProcesser/Sprite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/frontend/game_engine_UI/AnimationProcesser/SpriteProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/frontend/game_engine_UI/AnimationProcesser/AnimationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/frontend/game_engine_UI/BattleWorld/BattleView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2165">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/Forms/SaveForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="89" column="61" selection-start-line="89" selection-start-column="61" selection-end-line="89" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/Forms/LoadForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-304">
+          <caret line="99" column="61" selection-start-line="99" selection-start-column="61" selection-end-line="99" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/Forms/Form.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/Forms/EditPrototypeForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="89" column="58" selection-start-line="89" selection-start-column="58" selection-end-line="89" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/Forms/DialogueNodeForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/Forms/DialogueConnectionForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/frontend/game_engine_UI/BattleWorld/SideView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/frontend/game_engine_UI/BattleWorld/PlayerSide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/frontend/game_engine_UI/BattleWorld/OpponentSide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/frontend/game_engine_UI/BattleWorld/BattleViewAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/FormBoxes/AnimationBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/FormBoxes/BoundsBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/FormBoxes/FormBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/allendone/prototypes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-219" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authoring/authoring_frontend/FormBoxes/InteractionBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3126">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/plan/DESIGN_PLAN.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-74">
+            <caret line="53" column="7" lean-forward="true" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>voogasalad_TinyPicnicFrogs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35243797" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.googlecode.json-simple:json-simple:1.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35243797" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

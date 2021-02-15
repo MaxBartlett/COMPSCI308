@@ -1,0 +1,22 @@
+{
+
+  "name":"background",
+  "animations":[{"key":"idle","path":"background.png"}],
+  "stats":[],
+  "bounds":{
+    "relX":0,
+    "relY":0,
+    "width":500,
+    "height":500
+  },
+  "isPlayer":false,
+  "interactions": [{
+    "name":"background",
+    "type":"background",
+    "canPassThrough":true,
+    "messages":[
+      {"key":"backroundTouched","messageKey":"onVictory"}
+
+    ],
+    "animations":[{"key":"default","path":"background.png"}]}]
+}
